@@ -4,7 +4,8 @@
   "description": "A workshop for a11y topics",
   "main": "index.js",
   "scripts": {
-    "start": "marp -w -s slides"
+    "start": "marp -s slides",
+    "dev": "marp -w -s slides"
   },
   "repository": {
     "type": "git",
