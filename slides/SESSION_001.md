@@ -141,6 +141,18 @@ https://accessibility.huit.harvard.edu/techniques
 
 ---
 
+# Simplify your Text
+
+> People with cognitive disabilities or literacy problems may have difficulty reading the complex language of many sites. A translation to simpler language makes it easier for more people to read and understand content.
+
+https://ds.gpii.net/learn/accessibility-masterlist/translate-text-simpler-language
+
+https://simple.wikipedia.org/wiki/Simple_English_Wikipedia
+
+
+---
+
+
 # A11y for the Web
 
 ## ARIA 
@@ -215,6 +227,12 @@ https://benfrain.com/seriously-use-icon-fonts/
 
 Icon font to SVG:
 https://www.sarasoueidan.com/blog/icon-fonts-to-svg/
+
+---
+
+# What's next?
+
+Let's create internal and external workshops to make the web more accessible and inclusive
 
 ---
 
