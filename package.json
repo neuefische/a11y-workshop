@@ -1,0 +1,26 @@
+{
+  "name": "a11y-workshop",
+  "version": "1.0.0",
+  "description": "A workshop for a11y topics",
+  "main": "index.js",
+  "scripts": {
+    "start": "marp -w -s slides"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neuefische/a11y-workshop.git"
+  },
+  "keywords": [
+    "a11y",
+    "workshop"
+  ],
+  "author": "Gregor Adams",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neuefische/a11y-workshop/issues"
+  },
+  "homepage": "https://github.com/neuefische/a11y-workshop#readme",
+  "dependencies": {
+    "@marp-team/marp-cli": "^1.7.0"
+  }
+}
